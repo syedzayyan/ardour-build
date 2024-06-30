@@ -1,4 +1,4 @@
-# Ardour build for MacOS
+# Ardour build for MacOA
 
 ## Note
 
